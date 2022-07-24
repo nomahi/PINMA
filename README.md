@@ -1,7 +1,7 @@
 # PINMA package
 
 
-## Improved Methods for Constructing Prediction Intervals for Network Meta-Analysis
+## Improved Methods for Constructing Prediction Intervals of Network Meta-Analysis
 
 Parametric bootstrap and Kenward-Roger-type adjustment methods to construct prediction intervals for network meta-analysis are implementable.
 
